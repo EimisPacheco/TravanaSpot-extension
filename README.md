@@ -8,7 +8,7 @@
   reviews, then uses Google's Gemini AI to generate comprehensive insights, sentiment analysis, and
   answers to specific questions about the property.
 
-  ##Key Features
+  ## Key Features
 
   1. Automatic Review Collection - Extracts up to 100 reviews from any Airbnb listing page
   2. AI-Powered Analysis - Uses Gemini AI to analyze reviews and generate:
