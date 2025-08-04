@@ -1,6 +1,6 @@
-  #TravanaSpot-extension
+  # TravanaSpot-extension
 
-  ##What it does
+  ## What it does
 
   TravanaSpot is a Chrome extension that enhances the Airbnb browsing experience by providing
   AI-powered review analysis through a friendly assistant called "Little Airby". When users visit an
@@ -33,7 +33,7 @@
 
 
 
-   ##How you built it
+   ## How you built it
 
   The extension is built using:
 
@@ -50,7 +50,7 @@
     - Implements chunking for processing 100+ reviews
   - Technologies: Vanilla JavaScript, HTML5, CSS3, Fetch API
 
-   ##How are you using Resend
+   ## How are you using Resend
 
   Resend is integrated for email functionality through the email-sender.js module:
 
